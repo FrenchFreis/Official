@@ -1,0 +1,6 @@
+admin; admin; Faculty; 0001; Admin; Admin; admin@gmail.com
+renzalis; 123; Student; 0927; Renz; Alis; renzandreialis@gmail.com
+manolito; qwerty; Faculty; 9876; Mano; Octaviano; manolito@gmail.com
+jaira; jai; Student; 1234; Jaira; Marcial; jm@gmail.com
+ella; ela; Student; 9999; Michaela; Cailing; em@gmail.com
+test; test; Student; 5678; Testing; Account; gmail.com
